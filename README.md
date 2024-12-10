@@ -1,4 +1,3 @@
-
 LinkedIn Data Analysis
 
 📑 Project Overview
